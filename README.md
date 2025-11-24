@@ -22,12 +22,15 @@ Melalui praktikum ini, mahasiswa memahami konsep reactive UI dan real-time datab
 1. Aplikasi di dua device
 
 ![2](https://github.com/user-attachments/assets/9dcbfa1a-7e51-4c3c-ad78-9bf2b2bb0233)
+
 2. Proses tambah
 
 ![1](https://github.com/user-attachments/assets/118176de-2f05-4457-887d-54c7f746c909)
+
 3. Proses update
 
 ![3](https://github.com/user-attachments/assets/33beb0ed-006b-4a50-b573-8afa5e5a21f2)
+
 4. Proses delete
 
 ![5](https://github.com/user-attachments/assets/fd45c33f-1fe8-428a-8508-286ceb790d02)
