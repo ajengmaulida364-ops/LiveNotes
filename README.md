@@ -1,4 +1,6 @@
-![1](https://github.com/user-attachments/assets/2930a5e2-e11b-4dad-9e6f-73a377186f97)# Live Notes
+# Live Notes
+**Nama    : Ajeng Maulida Puspita**
+**NIM     : 362458302012
 
 Project ini merupakan hasil praktikum Mobile Programming yang bertujuan mengenalkan integrasi Flutter dengan Firebase, khususnya penggunaan Cloud Firestore sebagai database real-time. Aplikasi ini memungkinkan pengguna menambahkan, mengedit, dan menghapus catatan, lalu otomatis tersinkronisasi ke semua perangkat yang menjalankan aplikasi.
 
@@ -18,10 +20,10 @@ Melalui praktikum ini, mahasiswa memahami konsep reactive UI dan real-time datab
 
 ## Hasil
 1. Aplikasi di dua device
-   ![2](https://github.com/user-attachments/assets/9dcbfa1a-7e51-4c3c-ad78-9bf2b2bb0233)
+![2](https://github.com/user-attachments/assets/9dcbfa1a-7e51-4c3c-ad78-9bf2b2bb0233)
 2. Proses tambah
-   ![1](https://github.com/user-attachments/assets/118176de-2f05-4457-887d-54c7f746c909)
+![1](https://github.com/user-attachments/assets/118176de-2f05-4457-887d-54c7f746c909)
 3. Proses update
-   ![3](https://github.com/user-attachments/assets/33beb0ed-006b-4a50-b573-8afa5e5a21f2)
+![3](https://github.com/user-attachments/assets/33beb0ed-006b-4a50-b573-8afa5e5a21f2)
 4. Proses delete
-   ![5](https://github.com/user-attachments/assets/fd45c33f-1fe8-428a-8508-286ceb790d02)
+![5](https://github.com/user-attachments/assets/fd45c33f-1fe8-428a-8508-286ceb790d02)
